@@ -4,3 +4,6 @@ eureka:
     fetchRegistry: true
     serviceUrl:
       defaultZone: http://localhost:8086/eureka/
+
+my:
+  greetings: Hello, how are you
