@@ -6,4 +6,4 @@ eureka:
       defaultZone: http://localhost:8086/eureka/
 
 my:
-  greetings: Hello, how are you
+  greetings: Hello, how are you. Thank you very much
